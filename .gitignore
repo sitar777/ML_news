@@ -1,0 +1,7 @@
+#Files ignored by git
+**/.idea
+**/.DS_Store
+**/news_test.txt
+**/news_train.txt
+**/output.txt
+**/obj
